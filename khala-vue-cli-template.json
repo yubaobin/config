@@ -1,0 +1,7 @@
+[
+    {
+      "name":"khala_monolithic_fronted_src",
+      "url":"git@github.com:yubaobin/vue-framework.git",
+      "description":"基于vue-cli3.x构建的vue项目模板"
+    }
+]
